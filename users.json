@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "faisal",
+      "password": "123456",
+      "hwid": "ABC-123-XYZ"
+    },
+    {
+      "username": "test",
+      "password": "test123",
+      "hwid": "DEF-456-UVW"
+    }
+  ]
+}
