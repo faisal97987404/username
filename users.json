@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "username": "faisal",
-      "password": "123456",
+      "username": "1",
+      "password": "1",
       "hwid": "ABC-123-XYZ"
     },
     {
@@ -12,3 +12,4 @@
     }
   ]
 }
+
