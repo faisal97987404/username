@@ -15,7 +15,7 @@
       "username": "test",
       "password": "1",
       "hwid": "UPDATED_HWID",
-      "expiry": "2025-09-03",
+      "expiry": "2025-10-03",
       "subscription": "premium",
       "global_variable": "example_value",
       "email": null,
