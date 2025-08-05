@@ -89,6 +89,21 @@
       "IsHWIDLocked": false,
       "IsSuspended": true,
       "BanReason": null
+    },
+    {
+      "username": "11",
+      "password": "11",
+      "hwid": "11",
+      "expiry": "2025-09-09",
+      "subscription": "AIM SUPREME PLAN",
+      "global_variable": "1",
+      "email": "1",
+      "creation_date": "2025-08-05",
+      "status": "Active",
+      "IsBanned": false,
+      "IsHWIDLocked": false,
+      "IsSuspended": false,
+      "BanReason": null
     }
   ]
 }
