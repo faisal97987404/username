@@ -12,7 +12,7 @@
       "status": "Banned",
       "IsBanned": false,
       "IsHWIDLocked": true,
-      "IsSuspended": true,
+      "IsSuspended": false,
       "BanReason": null
     },
     {
