@@ -11,7 +11,7 @@
       "creation_date": null,
       "status": "Banned",
       "IsBanned": false,
-      "IsHWIDLocked": true
+      "IsHWIDLocked": false
     },
     {
       "username": "test",
