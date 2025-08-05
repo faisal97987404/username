@@ -11,7 +11,9 @@
       "creation_date": null,
       "status": "Banned",
       "IsBanned": false,
-      "IsHWIDLocked": true
+      "IsHWIDLocked": true,
+      "IsSuspended": false,
+      "BanReason": null
     },
     {
       "username": "test",
@@ -24,7 +26,9 @@
       "creation_date": null,
       "status": null,
       "IsBanned": false,
-      "IsHWIDLocked": false
+      "IsHWIDLocked": false,
+      "IsSuspended": false,
+      "BanReason": null
     },
     {
       "username": "api",
@@ -37,7 +41,9 @@
       "creation_date": "2025-08-05",
       "status": "Active",
       "IsBanned": false,
-      "IsHWIDLocked": false
+      "IsHWIDLocked": false,
+      "IsSuspended": true,
+      "BanReason": null
     },
     {
       "username": "ritesh",
@@ -50,7 +56,9 @@
       "creation_date": "2025-08-05",
       "status": null,
       "IsBanned": false,
-      "IsHWIDLocked": false
+      "IsHWIDLocked": false,
+      "IsSuspended": false,
+      "BanReason": null
     },
     {
       "username": "e",
@@ -63,7 +71,9 @@
       "creation_date": "2025-08-05",
       "status": null,
       "IsBanned": false,
-      "IsHWIDLocked": false
+      "IsHWIDLocked": false,
+      "IsSuspended": false,
+      "BanReason": null
     },
     {
       "username": "rishi",
@@ -76,7 +86,9 @@
       "creation_date": "2025-08-05",
       "status": null,
       "IsBanned": false,
-      "IsHWIDLocked": false
+      "IsHWIDLocked": false,
+      "IsSuspended": false,
+      "BanReason": null
     }
   ]
 }
