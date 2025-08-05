@@ -1,14 +1,20 @@
 {
-  "users":[
+  "users": [
     {
       "username": "1",
       "password": "1",
-      "hwid": "S-1-5-21-3840556803-423840465-1981500453-1001"
+      "hwid": "S-1-5-21-3840556803-423840465-1981500453-1001",
+      "expiry": null,
+      "subscription": null,
+      "global_variable": null
     },
     {
       "username": "test",
-      "password": "test123",
-      "hwid": "DEF-456-UVW"
+      "password": "1",
+      "hwid": "UPDATED_HWID",
+      "expiry": "2025-09-03",
+      "subscription": "premium",
+      "global_variable": "example_value"
     }
   ]
 }
