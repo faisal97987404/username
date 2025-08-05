@@ -1,21 +1,6 @@
 {
   "users": [
     {
-      "username": "1",
-      "password": "1",
-      "hwid": "",
-      "expiry": "",
-      "subscription": "AIM SUPREME PLAN",
-      "global_variable": "",
-      "email": "",
-      "creation_date": null,
-      "status": "Banned",
-      "IsBanned": false,
-      "IsHWIDLocked": true,
-      "IsSuspended": false,
-      "BanReason": null
-    },
-    {
       "username": "api",
       "password": "www",
       "hwid": "",
