@@ -10,7 +10,8 @@
       "email": "",
       "creation_date": null,
       "status": "Banned",
-      "IsBanned": false
+      "IsBanned": false,
+      "IsHWIDLocked": false
     },
     {
       "username": "test",
@@ -22,7 +23,8 @@
       "email": null,
       "creation_date": null,
       "status": null,
-      "IsBanned": false
+      "IsBanned": false,
+      "IsHWIDLocked": false
     },
     {
       "username": "api",
@@ -34,7 +36,8 @@
       "email": "",
       "creation_date": "2025-08-05",
       "status": "Active",
-      "IsBanned": false
+      "IsBanned": false,
+      "IsHWIDLocked": false
     },
     {
       "username": "ritesh",
@@ -46,7 +49,8 @@
       "email": "",
       "creation_date": "2025-08-05",
       "status": null,
-      "IsBanned": false
+      "IsBanned": false,
+      "IsHWIDLocked": false
     },
     {
       "username": "e",
@@ -58,7 +62,8 @@
       "email": "e",
       "creation_date": "2025-08-05",
       "status": null,
-      "IsBanned": false
+      "IsBanned": false,
+      "IsHWIDLocked": false
     },
     {
       "username": "rishi",
@@ -70,7 +75,8 @@
       "email": "",
       "creation_date": "2025-08-05",
       "status": null,
-      "IsBanned": false
+      "IsBanned": false,
+      "IsHWIDLocked": false
     }
   ]
 }
