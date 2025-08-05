@@ -16,21 +16,6 @@
       "BanReason": null
     },
     {
-      "username": "test",
-      "password": "1",
-      "hwid": "UPDATED_HWID",
-      "expiry": "2025-10-03",
-      "subscription": "premium",
-      "global_variable": "example_value",
-      "email": null,
-      "creation_date": null,
-      "status": null,
-      "IsBanned": false,
-      "IsHWIDLocked": false,
-      "IsSuspended": false,
-      "BanReason": null
-    },
-    {
       "username": "api",
       "password": "www",
       "hwid": "",
