@@ -34,7 +34,7 @@
       "email": "",
       "creation_date": "2025-08-05",
       "status": "Active",
-      "IsBanned": true
+      "IsBanned": false
     },
     {
       "username": "ritesh",
