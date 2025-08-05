@@ -24,14 +24,14 @@
     },
     {
       "username": "api",
-      "password": "1",
-      "hwid": "",
-      "expiry": "",
+      "password": "www",
+      "hwid": "S-1-5-21-3840556803-423840465-1981500453-1001",
+      "expiry": "2025-09-08",
       "subscription": "AIM SUPREME PLAN",
       "global_variable": "",
       "email": "",
       "creation_date": "2025-08-05",
-      "status": null
+      "status": "Active"
     },
     {
       "username": "ritesh",
