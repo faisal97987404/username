@@ -54,6 +54,17 @@
       "email": "e",
       "creation_date": "2025-08-05",
       "status": null
+    },
+    {
+      "username": "rishi",
+      "password": "1",
+      "hwid": "",
+      "expiry": "",
+      "subscription": "AIM SUPREME PLAN",
+      "global_variable": "",
+      "email": "",
+      "creation_date": "2025-08-05",
+      "status": null
     }
   ]
 }
