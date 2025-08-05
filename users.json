@@ -13,7 +13,7 @@
       "IsBanned": false,
       "IsHWIDLocked": false,
       "IsSuspended": false,
-      "BanReason": null
+      "BanReason": "spamm"
     }
   ]
 }
