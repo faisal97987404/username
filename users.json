@@ -42,7 +42,7 @@
       "status": "Active",
       "IsBanned": false,
       "IsHWIDLocked": false,
-      "IsSuspended": true,
+      "IsSuspended": false,
       "BanReason": null
     },
     {
