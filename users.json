@@ -6,7 +6,10 @@
       "hwid": "S-1-5-21-3840556803-423840465-1981500453-1001",
       "expiry": null,
       "subscription": null,
-      "global_variable": null
+      "global_variable": null,
+      "email": null,
+      "creation_date": null,
+      "status": null
     },
     {
       "username": "test",
@@ -14,7 +17,21 @@
       "hwid": "UPDATED_HWID",
       "expiry": "2025-09-03",
       "subscription": "premium",
-      "global_variable": "example_value"
+      "global_variable": "example_value",
+      "email": null,
+      "creation_date": null,
+      "status": null
+    },
+    {
+      "username": "api",
+      "password": "1",
+      "hwid": "S-1-5-21-3840556803-423840465-1981500453-1001",
+      "expiry": "2025-08-08",
+      "subscription": "AIM SUPREME PLAN",
+      "global_variable": "",
+      "email": "gmss@gmail.com",
+      "creation_date": "2025-08-05",
+      "status": null
     }
   ]
 }
