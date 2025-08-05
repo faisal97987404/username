@@ -32,6 +32,17 @@
       "email": "gmss@gmail.com",
       "creation_date": "2025-08-05",
       "status": null
+    },
+    {
+      "username": "ritesh",
+      "password": "1",
+      "hwid": "",
+      "expiry": "2025-08-04",
+      "subscription": "AIM SUPREME PLAN",
+      "global_variable": "",
+      "email": "",
+      "creation_date": "2025-08-05",
+      "status": null
     }
   ]
 }
