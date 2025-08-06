@@ -1,27 +1,3 @@
 {
-  "users": [
-    {
-      "username": "api",
-      "password": "1",
-      "hwid": "S-1-5-21-3840556803-423840465-1981500453-1001",
-      "expiry": "2025-09-09",
-      "subscription": "AIM SUPREME PLAN",
-      "global_variable": "",
-      "email": "fsvo027@gmail.com",
-      "creation_date": "2025-08-06",
-      "status": "Active",
-      "IsBanned": false,
-      "IsHWIDLocked": false,
-      "IsSuspended": false,
-      "BanReason": null,
-      "IsVerified": false,
-      "IsAdmin": false,
-      "IsPremium": false,
-      "RequiresPasswordReset": false,
-      "IsEmailNotificationsEnabled": false,
-      "TwoFactorEnabled": false,
-      "session_token": null,
-      "token_expiry": null
-    }
-  ]
+  "users": []
 }
