@@ -33,7 +33,7 @@
       "email": "",
       "creation_date": "2025-08-06",
       "status": "Active",
-      "IsBanned": true,
+      "IsBanned": false,
       "IsHWIDLocked": false,
       "IsSuspended": false,
       "BanReason": null,
