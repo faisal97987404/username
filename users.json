@@ -114,6 +114,29 @@
       "TwoFactorEnabled": false,
       "session_token": "b0e026fb-850d-4cb3-ab7d-ee82e3b87cb0",
       "token_expiry": "2025-08-08"
+    },
+    {
+      "username": "fazal",
+      "password": "1",
+      "hwid": "",
+      "expiry": null,
+      "subscription": "PUBLIC USER PLAN",
+      "global_variable": "",
+      "email": "",
+      "creation_date": "2025-08-07",
+      "status": "Active",
+      "IsBanned": false,
+      "IsHWIDLocked": false,
+      "IsSuspended": false,
+      "BanReason": null,
+      "IsVerified": false,
+      "IsAdmin": false,
+      "IsPremium": false,
+      "RequiresPasswordReset": false,
+      "IsEmailNotificationsEnabled": false,
+      "TwoFactorEnabled": false,
+      "session_token": "a259a20d-ef4a-4a6a-a280-29bf84a4be3b",
+      "token_expiry": null
     }
   ]
 }
