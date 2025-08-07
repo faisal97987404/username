@@ -1,29 +1,6 @@
 {
   "users": [
     {
-      "username": "lify",
-      "password": "1",
-      "hwid": " S-1-5-21-3840556803-423840465-1981500453-1001",
-      "expiry": "",
-      "subscription": "AIM SUPREME PLAN",
-      "global_variable": "",
-      "email": "",
-      "creation_date": "2025-08-06",
-      "status": "Active",
-      "IsBanned": false,
-      "IsHWIDLocked": false,
-      "IsSuspended": true,
-      "BanReason": null,
-      "IsVerified": false,
-      "IsAdmin": false,
-      "IsPremium": false,
-      "RequiresPasswordReset": false,
-      "IsEmailNotificationsEnabled": false,
-      "TwoFactorEnabled": false,
-      "session_token": "eca24297-d449-46ac-ba3a-75a242eaa50c",
-      "token_expiry": ""
-    },
-    {
       "username": "rt",
       "password": "1",
       "hwid": "",
