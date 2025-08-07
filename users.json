@@ -103,7 +103,7 @@
       "creation_date": "2025-08-07",
       "status": "Active",
       "IsBanned": false,
-      "IsHWIDLocked": true,
+      "IsHWIDLocked": false,
       "IsSuspended": false,
       "BanReason": null,
       "IsVerified": false,
