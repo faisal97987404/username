@@ -102,7 +102,7 @@
       "email": "",
       "creation_date": "2025-08-07",
       "status": "Active",
-      "IsBanned": true,
+      "IsBanned": false,
       "IsHWIDLocked": false,
       "IsSuspended": false,
       "BanReason": "how dare you",
