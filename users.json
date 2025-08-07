@@ -91,6 +91,29 @@
       "TwoFactorEnabled": false,
       "session_token": "e84460e7-f1dc-4c0b-aec2-77156678605e",
       "token_expiry": null
+    },
+    {
+      "username": "11",
+      "password": "11",
+      "hwid": "241412",
+      "expiry": "2025-09-09",
+      "subscription": "AIM SUPREME PLAN",
+      "global_variable": "",
+      "email": "",
+      "creation_date": "2025-08-07",
+      "status": "Active",
+      "IsBanned": false,
+      "IsHWIDLocked": false,
+      "IsSuspended": false,
+      "BanReason": null,
+      "IsVerified": false,
+      "IsAdmin": false,
+      "IsPremium": false,
+      "RequiresPasswordReset": false,
+      "IsEmailNotificationsEnabled": false,
+      "TwoFactorEnabled": false,
+      "session_token": "cc2d7535-d68b-4a5b-b61b-2b04a033e45a",
+      "token_expiry": "2025-09-09"
     }
   ]
 }
