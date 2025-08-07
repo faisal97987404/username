@@ -151,7 +151,7 @@
       "IsBanned": true,
       "IsHWIDLocked": false,
       "IsSuspended": false,
-      "BanReason": null,
+      "BanReason": "ritesh",
       "IsVerified": false,
       "IsAdmin": false,
       "IsPremium": false,
