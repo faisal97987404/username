@@ -35,7 +35,7 @@
       "status": "Active",
       "IsBanned": false,
       "IsHWIDLocked": false,
-      "IsSuspended": false,
+      "IsSuspended": true,
       "BanReason": null,
       "IsVerified": false,
       "IsAdmin": false,
