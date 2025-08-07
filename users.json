@@ -95,7 +95,7 @@
     {
       "username": "11",
       "password": "11",
-      "hwid": "241412",
+      "hwid": null,
       "expiry": "2025-09-09",
       "subscription": "AIM SUPREME PLAN",
       "global_variable": "",
