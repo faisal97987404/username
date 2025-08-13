@@ -1,6 +1,5 @@
 {
-  "users": 
-  [
+  "users": [
     {
       "username": "rt",
       "password": "$2a$12$bVyCkwr5f/XxhceJ6a8L2OcC8ls/DXOR9ZfBj2DQtVLH.45.Wd6hq",
@@ -25,5 +24,4 @@
       "token_expiry": null
     }
   ]
-
 }
