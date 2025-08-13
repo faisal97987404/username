@@ -96,8 +96,8 @@
       "username": "1",
       "password": "1",
       "hwid": "yy",
-      "expiry": null,
-      "subscription": "AIM SUPREME PLAN",
+      "expiry": "2025-09-09",
+      "subscription": "DARK ESSENTIAL PLAN",
       "global_variable": "1",
       "email": "1",
       "creation_date": "2025-08-08",
@@ -113,7 +113,7 @@
       "IsEmailNotificationsEnabled": false,
       "TwoFactorEnabled": false,
       "session_token": "f7394175-492d-41bd-86ee-887bf188f253",
-      "token_expiry": null
+      "token_expiry": "2025-09-09"
     },
     {
       "username": "1",
