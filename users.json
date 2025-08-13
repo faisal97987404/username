@@ -2,7 +2,7 @@
   "users": [
     {
       "username": "rt",
-      "password": "1",
+      "password": "$2a$12$bVyCkwr5f/XxhceJ6a8L2OcC8ls/DXOR9ZfBj2DQtVLH.45.Wd6hq",
       "hwid": "",
       "expiry": null,
       "subscription": "PUBLIC USER PLAN",
@@ -25,7 +25,7 @@
     },
     {
       "username": "",
-      "password": "",
+      "password": "$2a$12$.EayEl6dmEymprL4b3OXFe.vDuknqdoCJ.0qb2Sb4OlFEk.RzeYNS",
       "hwid": "",
       "expiry": "2025-09-09",
       "subscription": "DARK ESSENTIAL PLAN",
@@ -48,7 +48,7 @@
     },
     {
       "username": "11",
-      "password": "11",
+      "password": "$2a$12$B0JuYqRmWcsSHF3MDanRauorsC5EbW20RvJbfI/XZMEwkY8OZWlse",
       "hwid": null,
       "expiry": "2025-09-09",
       "subscription": "AIM SUPREME PLAN",
@@ -71,7 +71,7 @@
     },
     {
       "username": "fazal",
-      "password": "1",
+      "password": "$2a$12$n44O79nsO9HBC5dzKyqoE.3HTLBAjK95kT1IrVmjsWvCN4OpxiiTa",
       "hwid": "",
       "expiry": null,
       "subscription": "PUBLIC USER PLAN",
@@ -94,7 +94,7 @@
     },
     {
       "username": "1",
-      "password": "1",
+      "password": "$2a$12$Sdy/O/C7bUs7YOTvOQgprubH1bV0OdYV7IUQXc7tCtFvh3hvd/9oC",
       "hwid": "834560980-1413",
       "expiry": "2025-09-09",
       "subscription": "DARK ESSENTIAL PLAN",
@@ -117,7 +117,7 @@
     },
     {
       "username": "1",
-      "password": "1",
+      "password": "$2a$12$br9vavRbRoXvrUhG6q8pAOHe2XYI5l1DeJUUd0If9WA8H4fZ2VWXG",
       "hwid": "1",
       "expiry": "2025-09-09",
       "subscription": "AIM SUPREME PLAN",
